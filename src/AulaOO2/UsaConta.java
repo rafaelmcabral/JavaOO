@@ -3,7 +3,7 @@ package AulaOO2;
 public class UsaConta {
 	public static void main(String[] args) {
 		Conta A = new Conta();
-		A.numero = 001;
+		A.numero = 002;
 		A.nome = "Joao";
 		A.saldo = 100.0;
 		A.limite = 10.0;
